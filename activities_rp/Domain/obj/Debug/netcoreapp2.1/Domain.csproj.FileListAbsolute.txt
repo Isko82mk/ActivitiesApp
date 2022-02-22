@@ -1,0 +1,10 @@
+D:\Activities\activities_rp\Domain\bin\Debug\netcoreapp2.1\Domain.deps.json
+D:\Activities\activities_rp\Domain\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Activities\activities_rp\Domain\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Activities\activities_rp\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.AssemblyReference.cache
+D:\Activities\activities_rp\Domain\obj\Debug\netcoreapp2.1\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Activities\activities_rp\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfoInputs.cache
+D:\Activities\activities_rp\Domain\obj\Debug\netcoreapp2.1\Domain.AssemblyInfo.cs
+D:\Activities\activities_rp\Domain\obj\Debug\netcoreapp2.1\Domain.csproj.CoreCompileInputs.cache
+D:\Activities\activities_rp\Domain\obj\Debug\netcoreapp2.1\Domain.dll
+D:\Activities\activities_rp\Domain\obj\Debug\netcoreapp2.1\Domain.pdb

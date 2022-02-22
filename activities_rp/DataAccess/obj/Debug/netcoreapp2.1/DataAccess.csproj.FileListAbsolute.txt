@@ -1,0 +1,16 @@
+D:\Activities\activities_rp\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.deps.json
+D:\Activities\activities_rp\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.json
+D:\Activities\activities_rp\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.runtimeconfig.dev.json
+D:\Activities\activities_rp\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\Activities\activities_rp\DataAccess\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\Activities\activities_rp\DataAccess\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Activities\activities_rp\DataAccess\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.AssemblyReference.cache
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfoInputs.cache
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.AssemblyInfo.cs
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CoreCompileInputs.cache
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.csproj.CopyComplete
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.dll
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.pdb
+D:\Activities\activities_rp\DataAccess\obj\Debug\netcoreapp2.1\DataAccess.genruntimeconfig.cache

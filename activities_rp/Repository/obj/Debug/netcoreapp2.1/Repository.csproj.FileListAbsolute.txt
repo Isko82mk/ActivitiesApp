@@ -1,0 +1,15 @@
+D:\Activities\activities_rp\Repository\bin\Debug\netcoreapp2.1\Repository.deps.json
+D:\Activities\activities_rp\Repository\bin\Debug\netcoreapp2.1\Repository.dll
+D:\Activities\activities_rp\Repository\bin\Debug\netcoreapp2.1\Repository.pdb
+D:\Activities\activities_rp\Repository\bin\Debug\netcoreapp2.1\DataAccess.dll
+D:\Activities\activities_rp\Repository\bin\Debug\netcoreapp2.1\Domain.dll
+D:\Activities\activities_rp\Repository\bin\Debug\netcoreapp2.1\DataAccess.pdb
+D:\Activities\activities_rp\Repository\bin\Debug\netcoreapp2.1\Domain.pdb
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.AssemblyReference.cache
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.GeneratedMSBuildEditorConfig.editorconfig
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfoInputs.cache
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.AssemblyInfo.cs
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CoreCompileInputs.cache
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.csproj.CopyComplete
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.dll
+D:\Activities\activities_rp\Repository\obj\Debug\netcoreapp2.1\Repository.pdb
